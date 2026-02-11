@@ -6,7 +6,7 @@
   "author_name": "The Texas Zoo",
   "icon_url": "https://yourdomain.com/icon.png",
   "panel": {
-    "viewer_url": "https://YOUR_GITHUB_USERNAME.github.io/zoo-twitch-extension/panel.html",
+    "viewer_url": "https://thetexaszoo.github.io/zoo-twitch-extension/",
     "height": 300
   }
 }
