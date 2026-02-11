@@ -1,0 +1,12 @@
+{
+  "manifest_version": 1,
+  "version": "1.0.0",
+  "name": "Texas Zoo Twitch Panel",
+  "description": "Official Twitch panel for The Texas Zoo",
+  "author_name": "The Texas Zoo",
+  "icon_url": "https://yourdomain.com/icon.png",
+  "panel": {
+    "viewer_url": "https://YOUR_GITHUB_USERNAME.github.io/zoo-twitch-extension/panel.html",
+    "height": 300
+  }
+}
